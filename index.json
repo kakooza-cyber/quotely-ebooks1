@@ -3,44 +3,44 @@
     {
       "id": "alice_wonderland",
       "title": "Alice in Wonderland",
-      "image": "https://raw.githubusercontent.com/kakooza-cyber/quotely-ebooks1/main/covers/alice_wonderland_cover.png",
+      "image": "https://raw.githubusercontent.com/kakooza-cyber/quotely-ebooks1/main/covers/alice_wonderland_cover.svg",
       "dataUrl": "https://raw.githubusercontent.com/kakooza-cyber/quotely-ebooks1/main/output/alice_wonderland.json",
       "locked": false
     },
     {
       "id": "book",
       "title": "Book",
-      "image": "https://raw.githubusercontent.com/kakooza-cyber/quotely-ebooks1/main/covers/book_cover.png",
+      "image": "https://raw.githubusercontent.com/kakooza-cyber/quotely-ebooks1/main/covers/book_cover.svg",
       "dataUrl": "https://raw.githubusercontent.com/kakooza-cyber/quotely-ebooks1/main/output/book.json",
       "locked": false
     },
     {
       "id": "moby_dick",
       "title": "Moby Dick",
-      "image": "https://raw.githubusercontent.com/kakooza-cyber/quotely-ebooks1/main/covers/moby_dick_cover.png",
+      "image": "https://raw.githubusercontent.com/kakooza-cyber/quotely-ebooks1/main/covers/moby_dick_cover.svg",
       "dataUrl": "https://raw.githubusercontent.com/kakooza-cyber/quotely-ebooks1/main/output/moby_dick.json",
       "locked": false
     },
     {
       "id": "pride_and_prejudice",
       "title": "Pride and Prejudice",
-      "image": "https://raw.githubusercontent.com/kakooza-cyber/quotely-ebooks1/main/covers/pride_and_prejudice_cover.png",
+      "image": "https://raw.githubusercontent.com/kakooza-cyber/quotely-ebooks1/main/covers/pride_and_prejudice_cover.svg",
       "dataUrl": "https://raw.githubusercontent.com/kakooza-cyber/quotely-ebooks1/main/output/pride_and_prejudice.json",
       "locked": false
     },
     {
       "id": "sherlock_holmes",
       "title": "Adventures of Sherlock Holmes",
-      "image": "https://raw.githubusercontent.com/kakooza-cyber/quotely-ebooks1/main/covers/sherlock_holmes_cover.png",
+      "image": "https://raw.githubusercontent.com/kakooza-cyber/quotely-ebooks1/main/covers/sherlock_holmes_cover.svg",
       "dataUrl": "https://raw.githubusercontent.com/kakooza-cyber/quotely-ebooks1/main/output/sherlock_holmes.json",
       "locked": false
     },
     {
       "id": "tom_sawyer",
       "title": "The Adventures of Tom Sawyer",
-      "image": "https://raw.githubusercontent.com/kakooza-cyber/quotely-ebooks1/main/covers/tom_sawyer_cover.png",
+      "image": "https://raw.githubusercontent.com/kakooza-cyber/quotely-ebooks1/main/covers/tom_sawyer_cover.svg",
       "dataUrl": "https://raw.githubusercontent.com/kakooza-cyber/quotely-ebooks1/main/output/tom_sawyer.json",
       "locked": false
     }
   ]
-    }
+}
